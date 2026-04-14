@@ -92,20 +92,6 @@ Each persona has 6 knowledge documents covering:
 - **TinyLlama 1.1B / Phi-3 Mini 3.8B** - fine-tuning base models
 
 ---
-
-## Project Structure
-
-```
-character-driven-chatbot/
-├── notebooks/
-│   ├── prompt_and_rag.ipynb       # Prompt engineering + RAG pipeline + Gradio UI
-│   └── fine_tuning.ipynb          # LoRA fine-tuning experiments
-├── screenshots/                   # README images
-└── README.md
-```
-
----
-
 ## How to Run
 
 ### RAG Pipeline (prompt_and_rag.ipynb)
